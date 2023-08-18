@@ -1,5 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2gg9evh47fn9z.cloudfront.net%2F800px_COLOURBOX52108380.jpg&tbnid=7-WvGfhc3qRnBM&vet=12ahUKEwjWp5SKiOSAAxVOl2MGHSF0Bd0QMygpegUIARDHAQ..i&imgrefurl=https%3A%2F%2Fwww.colourbox.com%2Fvector%2Fweb-development-coding-and-programming-futuristic-banner-computer-code-on-laptop-vector-52108380&docid=3eKgkQ32G7JqNM&w=800&h=400&q=banner%20image%20for%20coding&ved=2ahUKEwjWp5SKiOSAAxVOl2MGHSF0Bd0QMygpegUIARDHAQ)
-<h1 align="center">Hi👋, I'm Sk Wasim</h1>
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fdeveloper&psig=AOvVaw3HuNH-BNcuniwmdfuu5sRp&ust=1692454157137000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDjy5ix5oADFQAAAAAdAAAAABAO)
 <h3 align="center">A passionate Java developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skwasim777&label=Profile%20views&color=0e75b6&style=flat" alt="skwasim777" /> </p>
