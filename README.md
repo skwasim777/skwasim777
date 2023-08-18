@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/281/866/desktop-wallpaper-web-design-website-development.jpg)]
+![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/281/866/desktop-wallpaper-web-design-website-development.jpg)
 <h3 align="center">A passionate Java developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skwasim777&label=Profile%20views&color=0e75b6&style=flat" alt="skwasim777" /> </p>
